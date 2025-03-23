@@ -1,0 +1,7 @@
+C:\Y\PRJ-WORK\DOCKER\01-Blazor\BlazorWWW\blazorapp\obj\Release\net8.0\linux-x64\PubTmp\Out\blazorapp
+C:\Y\PRJ-WORK\DOCKER\01-Blazor\BlazorWWW\blazorapp\obj\Release\net8.0\linux-x64\PubTmp\Out\appsettings.Development.json
+C:\Y\PRJ-WORK\DOCKER\01-Blazor\BlazorWWW\blazorapp\obj\Release\net8.0\linux-x64\PubTmp\Out\appsettings.json
+C:\Y\PRJ-WORK\DOCKER\01-Blazor\BlazorWWW\blazorapp\obj\Release\net8.0\linux-x64\PubTmp\Out\blazorapp.dll
+C:\Y\PRJ-WORK\DOCKER\01-Blazor\BlazorWWW\blazorapp\obj\Release\net8.0\linux-x64\PubTmp\Out\blazorapp.deps.json
+C:\Y\PRJ-WORK\DOCKER\01-Blazor\BlazorWWW\blazorapp\obj\Release\net8.0\linux-x64\PubTmp\Out\blazorapp.runtimeconfig.json
+C:\Y\PRJ-WORK\DOCKER\01-Blazor\BlazorWWW\blazorapp\obj\Release\net8.0\linux-x64\PubTmp\Out\blazorapp.pdb
