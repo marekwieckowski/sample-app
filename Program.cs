@@ -22,4 +22,4 @@ app.MapRazorComponents<App>()
 
 app.Run();
 
-//finish
+//end
